@@ -1,0 +1,6 @@
+*** Settings ***
+Resource          all_api_resource.txt
+
+*** Test Cases ***
+更改用户用户头像
+    Log    成功

@@ -1,0 +1,7 @@
+*** Settings ***
+Resource          all_api_resource.txt
+
+*** Test Cases ***
+已注册用户登录
+    Log    成功
+    Fail
