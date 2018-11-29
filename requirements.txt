@@ -1,0 +1,6 @@
+robotframework==3.0.4
+robotframework-requests==0.4.7
+robotframework-Selenium2Library==3.0.0
+robotframework-seleniumlibrary==3.1.1
+robotframework-DatabaseLibrary==1.1.1
+requests==2.20.1
